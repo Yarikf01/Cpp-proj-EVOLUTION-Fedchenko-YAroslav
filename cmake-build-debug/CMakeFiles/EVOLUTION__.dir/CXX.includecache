@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/Animal.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cstdlib
+-
+algorithm
+-
+iterator
+-
+stdlib.h
+-
+sstream
+-
+FitnessFunction.h
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/FitnessFunction.h
+
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/FitnessFunction.h
+iostream
+-
+vector
+-
+
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/Herb.cpp
+Herb.h
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/Herb.h
+
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/Herb.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cstdlib
+-
+stdlib.h
+-
+sstream
+-
+FitnessFunction.h
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/FitnessFunction.h
+Animal.h
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/src/Animal.h
+

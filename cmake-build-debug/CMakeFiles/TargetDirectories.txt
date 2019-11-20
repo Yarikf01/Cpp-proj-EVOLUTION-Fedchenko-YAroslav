@@ -1,0 +1,3 @@
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/cmake-build-debug/CMakeFiles/EVOLUTION__.dir
+/home/yaros/CLionProjects/EVOLUTION Федченко Ярослав/cmake-build-debug/CMakeFiles/edit_cache.dir
